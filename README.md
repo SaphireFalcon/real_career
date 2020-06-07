@@ -57,3 +57,6 @@ To start create a new game in career mode with the following settings in the tab
   - Turn all other contract groups off.
 
 When using kOS choose RemoteTech communication.
+
+## Known issues
+- The 0.35m inline stack probe node attachement strength. It disconnects extremely easily from the rocket.
