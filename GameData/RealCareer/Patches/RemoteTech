@@ -1,0 +1,7 @@
+//  Patches for RemoteTech
+
+//  Reflecton DP-10
+@PART[RTShortAntenna1]:FOR[RealCareer]
+{
+  %TechRequired = leftover
+}
