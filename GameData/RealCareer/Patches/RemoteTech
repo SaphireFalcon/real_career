@@ -1,7 +1,12 @@
 //  Patches for RemoteTech
 
 //  Reflecton DP-10
-@PART[RTShortAntenna1]:FOR[RealCareer]
+@PART[RTShortAntenna1]:AFTER[RemoteTech]:FOR[RealCareer]
+{
+  %TechRequired = leftover
+}
+//  Communotron 32
+@PART[RTLongAntenna2]:AFTER[RemoteTech]:FOR[RealCareer]
 {
   %TechRequired = leftover
 }
