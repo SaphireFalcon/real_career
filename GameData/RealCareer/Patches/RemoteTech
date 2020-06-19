@@ -3,7 +3,7 @@
 //  Reflecton DP-10
 @PART[RTShortAntenna1]:AFTER[RemoteTech]:FOR[RealCareer]
 {
-  %TechRequired = leftover
+  %TechRequired = engineering101
 }
 //  Communotron 32
 @PART[RTLongAntenna2]:AFTER[RemoteTech]:FOR[RealCareer]
