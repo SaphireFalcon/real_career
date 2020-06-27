@@ -7,15 +7,16 @@ The goal is to create contract packs that offer a more real career like experien
 
 Without these mods it won't work:
 
-- USI Sounding Rockets required for the first carreer stage
+- USI Sounding Rockets required for the first carreer stage (to be depreciated)
 - ContractConfigurator required to create contracts
+- RemoteTech for communication
 
 ### Highly Recommended Mods
 
 These mods offer additional stories (contract set):
 
-- RemoteTech
-- ScanSat
+- MechJeb to make your life so much easier!
+- ScanSat to scan for resources
 
 ### Recommended Mods
 
@@ -25,6 +26,7 @@ These mods offer additional stories (contract set):
 - Life Support mods
   - USI life support
   - ?
+- TweakScale will allow you to change size parts. The contracts are designed to do without this mod and this mod actually adds a tremendous amount of extra parts just for size. But you can make more beautiful stuff with the right sized parts.
 
 ### Unsupported Mods
 
@@ -59,4 +61,6 @@ To start create a new game in career mode with the following settings in the tab
 When using kOS choose RemoteTech communication.
 
 ## Known issues
-- The 0.35m inline stack probe node attachement strength. It disconnects extremely easily from the rocket.
+
+- The 0.625m fairing trusses don't allign with the attached part.
+- CP1.8.2 sometimes the timer of one of the satellites doesn't count down anymore. This seems to be an issue in how KSP visualizes the timer in the contract, it does count down. Change the focus to that satellite and wait for the other timers to finish. Suddenly also the other timer is finished and the contract completed.
