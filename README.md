@@ -16,6 +16,7 @@ Without these mods it won't work:
 These mods offer additional stories (contract set):
 
 - ScanSat to scan for resources and more contracts
+- kOS to program parts to execute stuff (contracts to come in the future)
 
 ### Recommended Mods
 
