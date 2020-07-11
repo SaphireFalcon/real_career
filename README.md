@@ -15,9 +15,14 @@ Without these mods it won't work:
 
 These mods offer additional stories (contract set):
 
-- MechJeb to make your life so much easier!
+- ScanSat to scan for resources and more contracts
 
 ### Recommended Mods
+
+- MechJeb to make your life so much easier! Though, some of its functionality can be found in standard KSP, but just a little more difficult.
+- TweakScale will allow you to change size parts. The contracts are designed to do without this mod and this mod actually adds a tremendous amount of extra parts just for size. But sometimes you can make more beautiful stuff with the right sized parts.
+
+### To be added Mods
 
 - Station & Base building mods
   - USI MKS
@@ -25,8 +30,6 @@ These mods offer additional stories (contract set):
 - Life Support mods
   - USI life support
   - ?
-- TweakScale will allow you to change size parts. The contracts are designed to do without this mod and this mod actually adds a tremendous amount of extra parts just for size. But you can make more beautiful stuff with the right sized parts.
-- ScanSat to scan for resources
 
 ### Unsupported Mods
 
@@ -69,10 +72,10 @@ When using kOS choose RemoteTech communication.
 
 ### ScanSat configuration
 
-The default settings are mostly oke. They disable stock scanning and require the more advances ScanSat settings. Disabling "resource biome lock" will make it a bit more challenging as landing in the right spot is more important.  
+The default settings are mostly oke. They disable stock scanning and require the more advanced ScanSat settings. Disabling "resource biome lock" will make it a bit more challenging as landing in the right spot is more important.  
 It is possible to go completely without this mod, I just never tried that.
 
 ## Known issues
 
-- The 0.625m fairing trusses don't allign with the attached part.
-- CP1.8.2 sometimes the timer of one of the satellites doesn't count down anymore. This seems to be an issue in how KSP visualizes the timer in the contract, it does count down. Change the focus to that satellite and wait for the other timers to finish. Suddenly also the other timer is finished and the contract completed.
+- Timer count down:
+  In CP1.8.2 (and others) sometimes the timer of one of the satellites doesn't count down anymore. This seems to be an issue in how KSP visualizes the timer in the contract, it does count down. Change the focus to that satellite and wait for the other timers to finish. Suddenly also the other timer is finished and the contract completed.
