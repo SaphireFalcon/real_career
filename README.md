@@ -1,7 +1,26 @@
 # real_career
-Kerbal Space Program Real Career mod and career pack.  
-This is a mod that replaces the stock contracts. 
-The goal is to create contract packs that offer a more real career like experience.
+
+Kerbal Space Program Real Career mod and career pack.
+
+## Playing Real Carreer
+
+This is a mod that replaces the stock contracts.  
+The goal is to create contract packs that offer a more real career like experience. And combined provide a campaign like experience. However, at the same time allowing for creative freedom in how to play each contract, and launching other rockets that are not part of the contract packs. Though, keep in mind that one needs money to do this, thus make sure that you make enough money with the CP2 contract pack.
+
+### Looking for contracts
+
+In general always look if there is a contract available. If not, check the left tab () to see what contracts are not yet offered and what requirements are not met. Often this is unlocking a tech, finishing another contract etc.
+
+### Tips
+
+* Create saves after / before each contract
+* Use Quick safes when making complex maneuvres
+* Create saves of your ships (e.g. name them after the contract)
+* ?
+
+## Mods
+
+This mod also depends and supports other mods, here an overview:
 
 ### Required Mods
 
@@ -31,6 +50,9 @@ These mods offer additional stories (contract set):
 - Life Support mods
   - USI life support
   - ?
+- Realism mods
+  - Kerbal Construction Time
+  - Deadly Reentry
 
 ### Unsupported Mods
 
@@ -78,5 +100,6 @@ It is possible to go completely without this mod, I just never tried that.
 
 ## Known issues
 
+- Sometimes the contract conditions don't seem to be accepted as completed, eventhough the conditions are met. But after landing (or some other random event) the contract/conditions is completed.
 - Timer count down:
   In CP1.8.2 (and others) sometimes the timer of one of the satellites doesn't count down anymore. This seems to be an issue in how KSP visualizes the timer in the contract, it does count down. Change the focus to that satellite and wait for the other timers to finish. Suddenly also the other timer is finished and the contract completed.
