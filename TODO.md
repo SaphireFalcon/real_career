@@ -1,13 +1,5 @@
 # ToDo
 
-- Gen. Construction 2.5m decoupler -> to next lvl
-- move 2,3,4 coupler 1.25m -> 1.25m to general construction
-- Gen. Construction 1.875m payload to next lvl? -> to next lvl
-- Make all science transmit at 50% -> First test if it accumulates. -> not really sure about this.
-- Material bay is less than 0.625m = 1.25 -> 1.55m
-- Mat bay & magn boom nodes need smaller.
-- kOS node in flight control
-
 ## CP1
 
 - Create my own models for the CP1 parts
