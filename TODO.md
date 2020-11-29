@@ -1,5 +1,7 @@
 # ToDo
 
+- Play through CP2, CP3, CP4 first part.
+
 ## CP1
 
 - Create my own models for the CP1 parts
@@ -15,16 +17,3 @@
 - Fix the rest of the tech tree
 - add support for more mods
 - Add more jokes
-
-## Campaign order
-- CP1   fully                 lvl 1-3                       82  / 186k
-- CP2   1.1, 3.1, 3.2, 4.1    lvl 4                         145 / ?k
-- CP2   7.1                   lvl 5 - Experimental Science  335 / ?
-- CP2   5.1                   lvl 5 - Scanning Tech         290 / ?
-- CP3   1.1-3, 2.1-2, 3.1     lvl 5 - Space Exploration     300 / ?
-- CP3   3.2                   lvl 5 - General Construction  215 / ?
-- CP4   1.1-2                 lvl 5 - Adv El, Com Tech      35  / ?
-- CP4   1.3                   lvl 5 -                       335 / ?
-- CP4   1.4                   lvl 5 -                       335 - 90 + ? / ?
-- CP4   2.1-4                 lvl 5 -                       ? + 375 + ? / ?
-- unlock lvl 5
