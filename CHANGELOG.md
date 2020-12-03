@@ -19,6 +19,8 @@ v0.2.0
 ------
 
 - Date: 03-12-2020
+- Fixed:
+  - Tested and working for KSP 1.10.1
 - Added:
   - CP2 Contract Pack: Expanding your space agency
     First basic contracts:
