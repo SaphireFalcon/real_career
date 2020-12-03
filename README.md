@@ -109,9 +109,8 @@ It is possible to go completely without this mod, I just never tried that.
 - CP3   3.2                   lvl 5 - General Construction  215 / ?
 - CP4   1.1-2                 lvl 5 - Adv El, Com Tech      35  / ?
 - CP4   1.3                   lvl 5 -                       335 / ?
-- CP4   1.4                   lvl 5 -                       335 + ? / ?
-- CP4   2.1-4                 lvl 5 -                       ? + 375 + ? / ?
-- unlock lvl 5
+- CP4   1.4                   lvl 5 -                       385 / ?
+- CP4   2.1-4                 lvl 5 -                       820 / ?
 
 ## Known issues
 

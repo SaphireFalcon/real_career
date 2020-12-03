@@ -14,3 +14,29 @@ v0.0.1
     - Tech Tree (up to CP1, after it needs updating and balancing)
       - Unmanned first
       - Shifted a lot of stuff around
+
+v0.1.0
+------
+
+- Date: 03-12-2020
+- Added:
+  - CP2 Contract Pack: Expanding your space agency
+    First basic contracts:
+    - First TV contracts
+    - Weather (biome & low visual)
+    - Mapping (low altimeter)
+    - Resource low
+  - CP3 Contract Pack: Manned space exploration
+    First basic contracts:
+    - First manned launch & orbit
+    - First station
+  - CP4 Contract Pack: Exloration of Kerbins moons
+    First basic contracts:
+    - Mun communication
+    - Mun orbital science
+    - Mun low res scanning
+    - Minmus communication
+    - Minmus orbital science
+    - Minmus low res scanning
+  - Parts & balancing for contracts
+  - Tech Tree (up to lvl 5, after it needs updating and balancing)
