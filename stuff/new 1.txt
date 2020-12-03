@@ -1,0 +1,116 @@
+
+  //  Spawn TV station
+  BEHAVIOUR
+  {
+    name = SpawnVessel
+    type = SpawnVessel
+    VESSEL
+    {
+      name = SkyFy TV Station
+      craftURL = RealCareer/Vessels/CP2_1_1_TV_station.craft
+      flagURL = Squad/Flags/satellite
+      vesselType = Base
+      owned = true // selectable/flyable unless docked -> You need to target the satellite
+      targetBody = Kerbin
+      lat = 90
+      lon = 0
+    }
+  }
+  //  Spawn multiple receivers
+  //  https://wiki.kerbalspaceprogram.com/images/a/a9/Kerbin_heightmap.jpg
+  BEHAVIOUR
+  {
+    name = SpawnVessel
+    type = SpawnVessel
+    VESSEL
+    {
+      name = CP2_1_1-SkyFy_TV_Receiver_15_30
+      craftURL = RealCareer/Vessels/CP2_1_1_TV_station.craft
+      flagURL = Squad/Flags/satellite
+      vesselType = Base
+      owned = true // selectable/flyable unless docked -> You need to target the satellite
+      targetBody = Kerbin
+      lat = 30
+      lon = 15
+    }
+  }
+  BEHAVIOUR
+  {
+    name = SpawnVessel
+    type = SpawnVessel
+    VESSEL
+    {
+      name = CP2_1_1-SkyFy_TV_Receiver_0_30
+      craftURL = RealCareer/Vessels/CP2_1_1_TV_station.craft
+      flagURL = Squad/Flags/satellite
+      vesselType = Base
+      owned = true // selectable/flyable unless docked -> You need to target the satellite
+      targetBody = Kerbin
+      lat = 30
+      lon = 0
+    }
+  }
+  BEHAVIOUR
+  {
+    name = SpawnVessel
+    type = SpawnVessel
+    VESSEL
+    {
+      name = CP2_1_1-SkyFy_TV_Receiver_-20_30
+      craftURL = RealCareer/Vessels/CP2_1_1_TV_station.craft
+      flagURL = Squad/Flags/satellite
+      vesselType = Base
+      owned = true // selectable/flyable unless docked -> You need to target the satellite
+      targetBody = Kerbin
+      lat = 30
+      lon = -20
+    }
+  }
+  BEHAVIOUR
+  {
+    name = SpawnVessel
+    type = SpawnVessel
+    VESSEL
+    {
+      name = CP2_1_1-SkyFy_TV_Receiver_17_50
+      craftURL = RealCareer/Vessels/CP2_1_1_TV_receiver.craft
+      flagURL = Squad/Flags/satellite
+      vesselType = Base
+      owned = true // selectable/flyable unless docked -> You need to target the satellite
+      targetBody = Kerbin
+      lat = 50.0
+      lon = 17.0
+    }
+  }
+  BEHAVIOUR
+  {
+    name = SpawnVessel
+    type = SpawnVessel
+    VESSEL
+    {
+      name = CP2_1_1-SkyFy_TV_Receiver_0_50
+      craftURL = RealCareer/Vessels/CP2_1_1_TV_receiver.craft
+      flagURL = Squad/Flags/satellite
+      vesselType = Base
+      owned = true // selectable/flyable unless docked -> You need to target the satellite
+      targetBody = Kerbin
+      lat = 50.0
+      lon = 0
+    }
+  }
+  BEHAVIOUR
+  {
+    name = SpawnVessel
+    type = SpawnVessel
+    VESSEL
+    {
+      name = CP2_1_1-SkyFy_TV_Receiver_-20_50
+      craftURL = RealCareer/Vessels/CP2_1_1_TV_receiver.craft
+      flagURL = Squad/Flags/satellite
+      vesselType = Base
+      owned = true // selectable/flyable unless docked -> You need to target the satellite
+      targetBody = Kerbin
+      lat = 50.0
+      lon = -20
+    }
+  }
