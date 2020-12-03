@@ -41,6 +41,17 @@ Parts & Changes
   - have more contracts or have long-term contracts that run for years
     maybe they show up after a year and check if you have a ship that meets the req with MET > 1 year
     These should give you money -> like a yearly licence to pay for the satelite service
+- engine ISP
+    tech lvl            size    ISP solid   ISP launch  kN/t  ISP space   kN/t
+  - lvl 0 start         0.350   120 /  60                              
+  - lvl 1 Imp micro R   0.350   140 / 165                              
+  - lvl 2 Tiny Rock     0.625   160 / 185   200 / 240   150               
+  - lvl 3 Basic Rock    1.25    170 / 195   220 / 270   170               
+  - lvl 4 Gen Rock      1.875   180 / 210   240 / 290   190               
+  - lvl 5 Adv Rock      2.5     190 / 215   260 / 300   210   220 / 320   190 
+  - lvl 6 Heavy Rock    3.75    195 / 215   280 / 305   230   220 / 340   170 
+  - lvl 7 Heavier Rock  5.0     200 / 220   290 / 310   240   150 / 360   150 
+  - lvl 8 V. Heavy Rock 10      210 / 220   295 / 315   250    70 / 380   120 
 
 General idea for contracts / stories
 - CP 1 - Starting a Space Agency

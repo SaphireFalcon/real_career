@@ -17,3 +17,10 @@
 - Fix the rest of the tech tree
 - add support for more mods
 - Add more jokes
+- Make mission that require a certain reputation like:
+  - bringing Kerbals (tourists) to a space station
+- Move RC parts to correct part folders
+- balance the air engines:
+  - add after burner to and better ISP (9000) for normal
+    - rapier
+    - JX-4 (or create a JX-5)
