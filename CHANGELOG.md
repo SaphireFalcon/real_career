@@ -1,6 +1,6 @@
 # Changelog
 
-v0.0.1
+v0.1.0
 ------
 
 - Date: 11-07-2020
@@ -15,7 +15,7 @@ v0.0.1
       - Unmanned first
       - Shifted a lot of stuff around
 
-v0.1.0
+v0.2.0
 ------
 
 - Date: 03-12-2020
