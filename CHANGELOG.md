@@ -15,6 +15,7 @@ v0.1.0
       - Unmanned first
       - Shifted a lot of stuff around
 
+
 v0.2.0
 ------
 
@@ -42,3 +43,17 @@ v0.2.0
     - Minmus low res scanning
   - Parts & balancing for contracts
   - Tech Tree (up to lvl 5, after it needs updating and balancing)
+
+
+  v0.3.0
+------
+
+- Date: future
+- Fixed:
+  - 
+- Added:
+  - Tech Tree lvl 6+
+    - space and planetary habitation
+    - engine moving and balancing
+
+
