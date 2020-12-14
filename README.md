@@ -5,7 +5,7 @@ Kerbal Space Program Real Career mod and career pack.
 ## Playing Real Carreer
 
 This is a mod that replaces the stock contracts.  
-The goal is to create contract packs that offer a more real career like experience. And combined provide a campaign like experience. However, at the same time allowing for creative freedom in how to play each contract, and launching other rockets that are not part of the contract packs. Though, keep in mind that one needs money to do this, thus make sure that you make enough money with the CP2 contract pack.
+The goal is to create contract packs that offer a more real career like experience. The pack combined provide a campaign like experience. However, at the same time allowing for creative freedom in how to play each contract, and launching other rockets that are not part of the contract packs. Though, keep in mind that one needs money, science and reputation to progress in the contract packs. Some contracts give you money, some give you science.
 
 ### Looking for contracts
 
@@ -110,7 +110,8 @@ It is possible to go completely without this mod, I just never tried that.
 - CP4   1.1-2                 lvl 5 - Adv El, Com Tech      35  / ?
 - CP4   1.3                   lvl 5 -                       335 / ?
 - CP4   1.4                   lvl 5 -                       385 / ?
-- CP4   2.1-4                 lvl 5 -                       820 / ?
+- CP4   2.1-4                 lvl 5 -                       820 / +/- 400k
+
 
 ## Known issues
 

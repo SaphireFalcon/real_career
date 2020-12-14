@@ -55,5 +55,6 @@ v0.2.0
   - Tech Tree lvl 6+
     - space and planetary habitation
     - engine moving and balancing
-
+  - CP2
+    - More TV contracts
 

@@ -3,7 +3,6 @@
 - Add more CP2 contracts
   - Test CP2.1.2
   - Test & create CP2.1.3
-  - Test & create CP2.1.4
   - Test & create CP2.2.1
   - Test & create CP2.2.2
   - Test & create CP2.3.3
@@ -24,6 +23,13 @@
 - Create a walkthrough/readme
 - Create a flag for Space-K
 - Export overview of contract diagrams
+- Check if ":NEEDS[SCANsat]" can be added to CONTRACT_TYPE in CP2, if so, do that! Else, put SCANsat as a required mod.
+- balance reputation
+
+
+## Mods
+
+- Modify RemoteTech to add frequency bands / channels.
 
 ## Other
 
