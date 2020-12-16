@@ -57,4 +57,5 @@ v0.2.0
     - engine moving and balancing
   - CP2
     - More TV contracts
+    - Communication contracts
 
