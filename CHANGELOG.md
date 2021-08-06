@@ -45,7 +45,7 @@ v0.2.0
   - Tech Tree (up to lvl 5, after it needs updating and balancing)
 
 
-  v0.3.0
+  v0.2.1
 ------
 
 - Date: future
@@ -58,4 +58,6 @@ v0.2.0
   - CP2
     - More TV contracts
     - Communication contracts
+  - CP3
+    - Resupply & return mission
 

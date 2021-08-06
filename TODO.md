@@ -1,9 +1,12 @@
 # ToDo
 
+- Add more CP3 contracts
+  - Resupply & Kerbals return
 - Add more CP2 contracts
   - Test CP2.1.2
   - Test CP2.1.3
-  - Test & create CP2.2.2
+  - Test CP2.2.1
+  - Test CP2.2.2
   - Test & create CP2.3.3
   - Test & create CP2.4.2
   - Test & create CP2.5.2
@@ -21,10 +24,10 @@
 - Create a walkthrough/readme
 - Create a flag for Space-K
 - Export overview of contract diagrams
-- Check if ":NEEDS[SCANsat]" can be added to CONTRACT_TYPE in CP2, if so, do that! Else, put SCANsat as a required mod.
 - balance reputation
 - fix location of craftURL when spawning vessels -> now in root, but url with GameData didn't work...
   It works now, need to make an entry in known issues?
+- create contracts replacing contracts that need a mod.
 
 ## Mods
 

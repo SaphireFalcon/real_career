@@ -32,9 +32,10 @@ Without these mods it won't work:
 
 ### Highly Recommended Mods
 
-These mods offer additional stories (contract set):
+These mods offer additional contracts:
 
-- ScanSat to scan for resources and more contracts
+- ScanSat to scan for resources and more contracts.
+- StationPartsExpansionRedux for building space station and contracts.
 - kOS to program parts to execute stuff (contracts to come in the future)
 
 ### Recommended Mods
@@ -46,10 +47,9 @@ These mods offer additional stories (contract set):
 
 - Station & Base building mods
   - USI MKS
-  - StationPartsExpansionRedux
+  - base building mod
 - Life Support mods
   - USI life support
-  - ?
 - Realism mods
   - Kerbal Construction Time
   - Deadly Reentry
@@ -118,3 +118,4 @@ It is possible to go completely without this mod, I just never tried that.
 - Sometimes the contract conditions don't seem to be accepted as completed, eventhough the conditions are met. But after landing (or some other random event) the contract/conditions is completed.
 - Timer count down:
   In CP1.8.2 (and others) sometimes the timer of one of the satellites doesn't count down anymore. This seems to be an issue in how KSP visualizes the timer in the contract, it does count down. Change the focus to that satellite and wait for the other timers to finish. Suddenly also the other timer is finished and the contract completed.
+- Sometimes the craft file cannot be found when trying to spawn a vessel. Sofar only reinstalling the mod and restarting KSP (a few times) has worked.
