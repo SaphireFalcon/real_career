@@ -4,15 +4,19 @@ Kerbal Space Program Real Career mod and career pack.
 
 ## Playing Real Carreer
 
-This is a mod that replaces the stock contracts.  
-The goal is to create contract packs that offer a more real career like experience. The pack combined provide a campaign like experience. However, at the same time allowing for creative freedom in how to play each contract, and launching other rockets that are not part of the contract packs. Though, keep in mind that one needs money, science and reputation to progress in the contract packs. Some contracts give you money, some give you science.
+This is a mod that replaces the stock contracts with the goal to offer a more real career-like experience.  
+These contracts provide a campaign like experience. However, at the same time allowing for creative freedom in how to play each contract, and launching other rockets that are not part of the contract packs. Though, keep in mind that one needs money, science and reputation to build rockets, research new technologies and parts. Therefore, some contracts give you money, some give you science and most give you some reputation.
 
 ### Looking for contracts
 
-In general always look if there is a contract available. If not, check the left tab () to see what contracts are not yet offered and what requirements are not met. Often this is unlocking a tech, finishing another contract etc.
+In general always look if there is a contract available. If not, check the left tab to see what contracts are not yet offered and what requirements are not met. Often this is unlocking a tech, finishing another contract etc.
 
 ### Tips
 
+* Read each contract carefully:
+  * The description section generatlly provides the backstory.
+  * The notes section describes what you have to do, and often explains certain concepts of the game.
+  * Don't forget to read the message after completion!
 * Create saves after / before each contract
 * Use Quick safes when making complex maneuvres
 * Create saves of your ships (e.g. name them after the contract)
@@ -20,7 +24,9 @@ In general always look if there is a contract available. If not, check the left 
 
 ## Mods
 
-This mod also depends and supports other mods, here an overview:
+This mod also depends and supports other mods. 
+
+Here an overview:
 
 ### Required Mods
 
@@ -35,8 +41,10 @@ Without these mods it won't work:
 These mods offer additional contracts:
 
 - ScanSat to scan for resources and more contracts.
-- StationPartsExpansionRedux for building space station and contracts.
+- KerbalGPS to create a GPS network
+- StationPartsExpansionRedux for building space station and contracts. (hopefully in the future contracts will support a variety of parts from stock and mods)
 - kOS to program parts to execute stuff (contracts to come in the future)
+- Outer Planets (contracts to come in the future)
 
 ### Recommended Mods
 
@@ -53,6 +61,9 @@ These mods offer additional contracts:
 - Realism mods
   - Kerbal Construction Time
   - Deadly Reentry
+  
+### Supported Mods
+
 
 ### Unsupported Mods
 
@@ -65,9 +76,11 @@ To start create a new game in career mode with the following settings in the tab
 - Basic:
   - Turn off "Allow Reverting Flights" (Optional: Extra hard)
   - Turn off "Allow Quick loading" (Optional: Extra hard)
-  - Turn off "missing crew respawns" (recommended)
+  - Turn off "missing crew respawns" (Recommended)
   - Turn off "No entry purchase required on research" (Recommended)
-  - Turn off "Enable comm Network" (Not sure if RT overrides this)
+  - Turn on "Enable comm Network" (REQUIRED)
+  - "Persist Kerbal Inventory Loadout" -> ?
+  - "Allow other launchsites" is up to the player.
   - Starting funds: 0 (recommended, you get enough in the career missions)
   - Starting science: 0 (recommended, you get enough in the career missions)
   - Starting reputation: 0 (recommended, you get enough in the career missions)
