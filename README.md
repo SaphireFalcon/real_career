@@ -67,7 +67,7 @@ These mods offer additional contracts:
 
 ### Unsupported Mods
 
-At the moment none are known. Please report any problems with other mods.
+- ReStock (ReStock+) need to fix the models that are reused from stock.
 
 ## Starting the game
 
@@ -132,3 +132,7 @@ It is possible to go completely without this mod, I just never tried that.
 - Timer count down:
   In CP1.8.2 (and others) sometimes the timer of one of the satellites doesn't count down anymore. This seems to be an issue in how KSP visualizes the timer in the contract, it does count down. Change the focus to that satellite and wait for the other timers to finish. Suddenly also the other timer is finished and the contract completed.
 - Sometimes the craft file cannot be found when trying to spawn a vessel. Sofar only reinstalling the mod and restarting KSP (a few times) has worked.
+
+## Credits
+
+- **RoverDude** for his SoundingRockets mod, giving me ideas on how to design this mod.

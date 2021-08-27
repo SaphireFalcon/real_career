@@ -1,0 +1,8 @@
+*.png
+*.blend1
+PartModels/**/*.mu
+PartModels/**/*.cfg
+PartModels/**/*.dds
+GameData/**/*.blend
+GameData/**/*.xcf
+GameData/**/*_flipped.dds
