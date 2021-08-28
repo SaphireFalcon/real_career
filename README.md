@@ -113,25 +113,31 @@ It is possible to go completely without this mod, I just never tried that.
 
 ## Campaign order
 
-- CP1   fully                 lvl 1-3                       82  / 186k
-- CP2   1.1, 3.1-2, 4.1       lvl 4                         145 / ?k
-- CP2   5.1                   lvl 5 - Scanning Tech         100 / ?
-- CP2   5.1                   lvl 5 - Scanning Tech         55 / ?
-- CP2   7.1                   lvl 5 - Experimental Science  290 / ?
-- CP3   1.1-3, 2.1-2, 3.1     lvl 5 - Space Exploration     300 / ?
-- CP3   3.2                   lvl 5 - General Construction  215 / ?
-- CP4   1.1-2                 lvl 5 - Adv El, Com Tech      35  / ?
-- CP4   1.3                   lvl 5 -                       335 / ?
-- CP4   1.4                   lvl 5 -                       385 / ?
-- CP4   2.1-4                 lvl 5 -                       820 / +/- 400k
+The order below is a suggestion in what order to play the campaign packs. Though, it's highly recommended to first finish CP1 completely.
 
+| Pack | Contracts           | Science level                | Science / money to get | 
+|------|---------------------|------------------------------| -----------------------|
+| CP1  | fully               | lvl 1-3                      | 82  / 186k |
+| CP2  | 1.1, 3.1-2, 4.1     | lvl 4                        | 145 / ?k |
+| CP2  | 5.1                 | lvl 5 - Scanning Tech        | 100 / ? |
+| CP2  | 5.1                 | lvl 5 - Scanning Tech        | 55 / ? |
+| CP2  | 7.1                 | lvl 5 - Experimental Science | 290 / ? |
+| CP3  | 1.1-3, 2.1-2, 3.1   | lvl 5 - Space Exploration    | 300 / ? |
+| CP3  | 3.2                 | lvl 5 - General Construction | 215 / ? |
+| CP4  | 1.1-2               | lvl 5 - Adv El, Com Tech     | 35  / ? |
+| CP4  | 1.3                 | lvl 5 -                      | 335 / ? |
+| CP4  | 1.4                 | lvl 5 -                      | 385 / ? |
+| CP4  | 2.1-4               | lvl 5 -                      | 820 / +/- 400k |
+|------|---------------------|------------------------------| -----------------------|
+
+On the wiki (todo) you can find more details about each campaign pack and it's flow.
 
 ## Known issues
 
 - Sometimes the contract conditions don't seem to be accepted as completed, eventhough the conditions are met. But after landing (or some other random event) the contract/conditions is completed.
 - Timer count down:
   In CP1.8.2 (and others) sometimes the timer of one of the satellites doesn't count down anymore. This seems to be an issue in how KSP visualizes the timer in the contract, it does count down. Change the focus to that satellite and wait for the other timers to finish. Suddenly also the other timer is finished and the contract completed.
-- Sometimes the craft file cannot be found when trying to spawn a vessel. Sofar only reinstalling the mod and restarting KSP (a few times) has worked.
+- Sometimes the craft file cannot be found when trying to spawn a vessel. So far only reinstalling the mod and restarting KSP (a few times) has worked.
 
 ## Credits
 
