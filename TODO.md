@@ -1,5 +1,11 @@
 # ToDo
 
+/ Figure out why ProbeCone can't be selected as the first part...
+- Give the rockets a side attach node!
+- Re-Balance CP1 with new rockets
+  - S2 with ProbeCone 38-40km
+  - L2 with ProbeCone +/-82km
+
 - Add more CP3 contracts
   - Resupply & Kerbals return
 - Add more CP2 contracts
