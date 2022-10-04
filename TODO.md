@@ -1,4 +1,21 @@
 # ToDo
+  
+- move EVA parachute to later
+- move EVA jet-pack to later
+- CP1.3.2 Make parachute open at specified height range: "TODO: add a part test for RC_NoseProbeChute_035"
+- Add bumpmap to inlineGyro G1, G2 (also, reuse the textures)
+- fix the lighting
+
+? Check nosecone/prob/chute G2 in the techtree
+- Try CP1-5-2 without the "completeInSequence = true" because now contract succeeds only after crashing.
+  - same CP1-5-3
+
+- Fix the gyro drag cubes -> ?
+- Fix the gyro G2 attach node
+
+- Re-Balance CP1 with new rockets
+  - S2 with ProbeCone 38-40km
+  - L2 with ProbeCone +/-82km
 
 - Add more CP3 contracts
   - Resupply & Kerbals return
@@ -18,11 +35,11 @@
   - Create CP3.3.3 
 - Add more CP4 contracts
   - Contracts landing on Mun and Mimus, probe, rover, manned, manned rover.
-- Create my own models for the CP1 parts
+/ Create my own models for the CP1 parts
 - Add saves
 - Add rocket files
 - Create a walkthrough/readme
-- Create a flag for Space-K
+/ Create a flag for Space-K
 - Export overview of contract diagrams
 - balance reputation
 - fix location of craftURL when spawning vessels -> now in root, but url with GameData didn't work...
