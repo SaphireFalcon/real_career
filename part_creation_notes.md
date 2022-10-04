@@ -26,7 +26,7 @@ Notes:
 ## Creating a model in blender
 
 - Texture UV map: [video](https://www.youtube.com/watch?v=eiDrRa6JvQ0)
-- Creating fuel tank with only blender [video](https://www.youtube.com/watch?v=VJy5cXd04uk&t=482s)
+- Creating fuel tank with only blender [video](https://www.youtube.com/watch?v=VJy5cXd04uk)
   - engine with gimbal [video](https://www.youtube.com/watch?v=HvMD0rxTifo)
 - Intake (sketchup and blender): [video](https://www.youtube.com/watch?v=dy12jzUBG4Q]
 - merge parts into 1 mesh: [link](https://gamedev.stackexchange.com/questions/33843/how-to-merge-two-objects-in-blender)
@@ -38,4 +38,4 @@ Notes:
 
 ## Notes
 
-- ? blender size unit 1.0 is 1.25 m in KSP 
+- 
